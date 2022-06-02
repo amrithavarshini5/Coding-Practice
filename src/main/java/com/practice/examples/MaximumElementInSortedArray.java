@@ -1,3 +1,11 @@
+/**
+ * Given a sorted array arr[] of distinct elements which is rotated at some unknown point, 
+ * the task is to find the maximum element in it
+ * Input: arr[] = {3, 4, 5, 1, 2} 
+ * Output: 5
+ * Input: arr[] = {1, 2, 3} 
+ * Output: 3 
+ */
 package com.practice.examples;
 
 public class MaximumElementInSortedArray {
